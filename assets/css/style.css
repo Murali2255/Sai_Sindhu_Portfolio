@@ -730,6 +730,8 @@ section {
   }
 }
 
+
+
 .testimonials .swiper-pagination {
   margin-top: 20px;
   position: relative;
@@ -1284,4 +1286,10 @@ section {
 
 .linkin-class{
   color : #555555
+}
+
+@media (max-width: 992px) {
+  .address {
+    margin-top: 40px;
+  }
 }
