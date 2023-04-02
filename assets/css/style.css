@@ -1293,3 +1293,7 @@ section {
     margin-top: 40px;
   }
 }
+
+.text-list{
+  text-align: justify;
+}
